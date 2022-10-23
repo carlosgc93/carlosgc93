@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carlosgc93
-- 👀 I’m interested in Python, Django, Flask, Git, Deploy
+- 👀 I’m interested in Python, Django
 - 🌱 I’m currently learning  :3
 <!--- - 💞️ I’m looking to collaborate with someone --->
 - 📫 How to reach me garcas93@gmail.com

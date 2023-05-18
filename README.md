@@ -23,13 +23,16 @@ You can click the Preview link to take a look at your changes.
    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" />
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a>
+   <a href="https://www.microsoft.com/es/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+     <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png"
+      alt=excel" width="40" height="40" /> </a>
 
 <br>
 
@@ -43,5 +46,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://jonahlawrence.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
   <a href="https://dev.to/denvercoder1"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
   <a href="https://ko-fi.com/jlawrence"><img alt="Ko-fi" title="By me a coffee" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a> -->
+ 
 </p>
   

@@ -14,7 +14,7 @@ carlosgc93/carlosgc93 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <br>
-<h3 align="left"> :computer: Languages and Tools:</h3>
+<h3 align="left"> :computer: Languages and tools that i'm learning:</h3>
 
 <p align="left">
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img

@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Carlos  García, a graduate in systems and passionate about technology. I am embarking on my journey in programming, focusing on the Python language. I am developing my skills in web development using Django. I am also interested in Microsoft Excel and its use in data analysis. I am actively seeking opportunities in the technology field to apply my knowledge and contribute to innovative projects.
 
-- 👀 I’m interested in Python, Django, Flask, MySQL, PostgreSQL
+- 👀 I’m interested in Python, Django, Flask, MySQL, PostgreSQL & Excel
 - 🌱 I’m currently learning  :3
 <!--- - 💞️ I’m looking to collaborate with someone --->
 - 📫 How to reach me garcas93@gmail.com

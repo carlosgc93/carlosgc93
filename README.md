@@ -1,44 +1,55 @@
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="150"/>
-</p>
 
-- 👋 Hi, I’m Carlos  García, a graduate in systems and passionate about technology. I am embarking on my journey in programming, focusing on the Python language. I am developing my skills in web development using Django. I am also interested in Microsoft Excel and its use in data analysis. I am actively seeking opportunities in the technology field to apply my knowledge and contribute to innovative projects.
+<h1 align="center">Hola Mundo 👨🏽‍💻</h1>
 
-- 👀 I’m interested in Python, Django, Flask, MySQL, PostgreSQL & Excel
-- 🌱 I’m currently learning  :3
-<!--- - 💞️ I’m looking to collaborate with someone --->
-- 📫 How to reach me garcas93@gmail.com
+###
 
-<!---
-carlosgc93/carlosgc93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<br>
-<h3 align="left"> :computer: Languages and tools that i'm learning:</h3>
+<h3 align="left">👋👋👋👋<br><br>Soy Carlos García, un recién graduado en Ingeniería en Sistemas. Me encanta trabajar con Python y tengo un fuerte interés en el desarrollo web y el backend. Mi objetivo es seguir aprendiendo y perfeccionando mis habilidades a través de proyectos prácticos y colaboraciones. Me apasiona la tecnología y estoy comprometido a crear soluciones innovadoras.</h3>
 
-<p align="left">
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a>
-   <a href="https://www.microsoft.com/es/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-     <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png"
-      alt=excel" width="40" height="40" /> </a>
+###
 
-<br>
+<h5 align="left"></h5>
 
-  <h3 align="left"> ## 🙋‍♂️ Connect with me:</h3>
+###
 
-<p align="left">
-  <a href="https://linkedin.com/in/cagc93" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  <a href="https://twitter.com/carlosgc93"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
- </p>
-  
+<h2 align="left">💻Practicando en :</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<h2 align="left">📟Contacto:</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/cagc93/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/carlosgc93_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="mailto:garcas93@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="mailto:ambro_93garcas@hotmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
